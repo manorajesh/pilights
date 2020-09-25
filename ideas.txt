@@ -1,0 +1,22 @@
+Features
+On/Off
+Change colors together
+Changing individually
+Cool patterns
+Music to colors
+Music to control it
+Pseudo code
+Turn on
+Define Presets
+Type preset name (Get input)
+If it doesn't exist give error
+Run
+
+
+React to music/ audio cues
+You talking
+
+
+Pong lights
+Cool patterns
+Led circle spinning
